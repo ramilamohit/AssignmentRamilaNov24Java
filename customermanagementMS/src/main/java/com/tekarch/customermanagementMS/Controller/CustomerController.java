@@ -2,7 +2,6 @@ package com.tekarch.customermanagementMS.Controller;
 
 import com.tekarch.customermanagementMS.Models.Customer;
 import com.tekarch.customermanagementMS.Services.CustomerServiceImpl;
-import com.tekarch.customermanagementMS.Services.Interfaces.CustomerService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
